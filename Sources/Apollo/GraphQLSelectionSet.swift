@@ -1,5 +1,5 @@
 #if !COCOAPODS
-import ApolloAPI
+import LegacyApolloAPI
 #endif
 
 public typealias ResultMap = [String: Any?]
